@@ -1,0 +1,1 @@
+D:\Projetos-Intellij\curso\build\classes\kotlin\main\MainKt.class;D:\Projetos-Intellij\curso\build\classes\kotlin\main\seccionDos\PrincipalDosKt.class;D:\Projetos-Intellij\curso\build\classes\kotlin\main\seccionDos\curso\PrincipalKt.class;D:\Projetos-Intellij\curso\build\classes\kotlin\main\seccionUno\PrincipalKt.class
