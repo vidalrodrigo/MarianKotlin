@@ -1,7 +1,18 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+    //soma()
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+    pedirDatos("hola",123 )
+}
+fun soma(){
+    println("Ingresa valor 1")
+    val num1 = readln()!!.toInt();
+    println("Ingresa valor 2")
+    val num2 = readln()!!.toInt();
+    val resultado = num1 + num2
+    println(resultado)
+}
+
+fun pedirDatos(datoUno: String, datoDos: Int){
+    println(datoUno)
+    println(datoDos)
 }
